@@ -18,7 +18,9 @@ function Home() {
                      sm:px-5
                      md:px-10
                      lg:px-20
-                     xl:px-28"
+                     xl:px-28
+                     "
+                    
         >
           <Card />
           <Card />

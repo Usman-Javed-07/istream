@@ -51,7 +51,7 @@ const Header = () => {
             <a
               key={item.label}
               href={item.href}
-              className="hover:text-blue-500 transition-colors duration-200 relative group"
+              className="hover:text-[rgb(35,138,192)] transition-colors duration-200 relative group"
             >
               <li className="flex items-center gap-2">
                 {item.label}
